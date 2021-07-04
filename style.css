@@ -1,5 +1,5 @@
 body {
-  background: #dfe7ef;
+  background: #202224;
   font-family: "Bitter", serif;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .player {
-  background: #eef3f7;
+  background: #292d30;
   width: 410px;
   min-height: 480px;
   box-shadow: 0px 15px 35px -5px rgba(50, 88, 130, 0.32);
@@ -146,7 +146,7 @@ body {
   font-size: 30px;
   padding: 5px;
   margin-bottom: 10px;
-  color: #acb8cc;
+  color: #2679ff;
   cursor: pointer;
   width: 50px;
   height: 50px;
@@ -160,7 +160,7 @@ body {
     font-size: 26px;
     padding: 5px;
     margin-right: 10px;
-    color: #acb8cc;
+    color: #2679ff;
     cursor: pointer;
     width: 40px;
     height: 40px;
